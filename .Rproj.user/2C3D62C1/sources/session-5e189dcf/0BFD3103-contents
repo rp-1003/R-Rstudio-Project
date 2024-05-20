@@ -6,3 +6,4 @@ View(beds_data)
 #usethis::create_github_token()
   # to create a personal access token run this command directly in the R command
 # to set the git access token gitcreds::gitcreds_set()
+git commit
